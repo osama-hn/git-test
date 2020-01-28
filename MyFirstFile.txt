@@ -1,2 +1,5 @@
 Here is some text
+Ashdsahd
+This is the text to integrate the second new feature asdsadad
+sdaf asdas asfd
 Here is some more text
